@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/flexbox-order-summary-card-1EGvR4TEJJ)
-- Live Site URL: [](https://claudionetto.github.io/frontend-mentor-order-summary-card/#)
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-order-summary-card-1EGvR4TEJJ]
+- Live Site URL: [https://claudionetto.github.io/frontend-mentor-order-summary-card/#]
 
 ### Built with
 
